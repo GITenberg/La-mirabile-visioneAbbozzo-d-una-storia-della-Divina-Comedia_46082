@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '41750'
     url: http://www.gutenberg.org/2009/agents/41750
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46082#La-mirabile-visioneAbbozzo-d-una-storia-della-Divina-Comedia
 gutenberg_bookshelf: IT Letteratura
 gutenberg_issued: '2014-06-23'
 gutenberg_type: Text
